@@ -37,7 +37,7 @@
 
   "languages": [
     { "language": "English", "level": 5 },
-    { "language": "Hindi", "level": 5 },
+    { "language": "Hindi", "level": 4 },
     { "language": "French", "level": 3 }
   ],
 
